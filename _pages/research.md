@@ -5,7 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
-My current projects and working papers include a formal model to explain when political parties in India introduce internal quotas for women candidates, a survey experiment on gender-based differences in evaluating transgressions made by politicians, a conjoint experiment evaluating voter bias in candidate selection in India, and a conceptual  paper on defining information disorders.
+My current projects and working papers include a formal model to explain when political parties in India introduce internal quotas for women candidates, a conjoint experiment evaluating voter bias in candidate selection in India, and an online survey experiment on incentivizing peer-to-peer correction of online misinformation. My dissertation project focuses on the political ambition of Indian women. 
+
+Seeking Truth: Incentivizing Peer to Peer Correction of Online Misinformation
+======
+
+_With Rachel Xu_
+
+Many approaches to tackling misinformation rely on interventions coordinated or managed by centralized authorities (e.g. media literacy campaigns and PSAs). There are two issues with such top-down interventions. First, there is a declining trust in authorities, especially fact-checkers and the media, who lead efforts in asserting accuracy on social media platforms. Second, these interventions are often expensive and not scalable. In order for misinformation resilience to be truly long-lasting and sustainable, misinformation interventions must find a way to be self-sustaining by the consumers of information – the public. We design and test an online intervention that encourages peer-to-peer correction of misinformation. We argue that social norm nudges – both descriptive and injunctive – motivate individuals to correct online misinformation through increasing acceptability of corrections and responsibility of corrections. We contribute to a growing literature on combating misinformation by proposing a durable and scalable intervention. 
 
 When Gatekeepers Open the Gates: Internal Party Quotas as Reputation Building Strategies
 ======
@@ -21,7 +28,7 @@ _With Martin J. Riedl, Alicia Wanless, and Samuel Woolley_
 
 The integrity of the information environment is essential to the health of democracies. Manipulation of it in efforts to influence audiences and outcomes threatens this integrity. At the same time, persuasion is a necessary tool in polities, including democratic ones, to encourage large groups of people to cooperate. This leads to an important question: How can influence operations be assessed in order to distinguish those that are acceptable from those that are not? This work explores possible criteria to objectively make such an assessment in the context of democracies using three case studies: U.S. efforts to sell the war in Iraq; interest-based campaigns related to climate change denial; and Narendra Modi’s WhatsApp-based BJP campaign for election in India. Each case study looks at six elements:  Who is behind such operations? What activities are being carried out? What is the quality of the content involved? Who is the target audience? What are the means of distribution? In so doing, this work explores three potential criteria that could act as objective metrics for assessing the acceptability of an influence operation in the context of democracies, namely: (1) transparency in origins; (2) quality of content; and (3) calls to action. 
 
- _Contact for Working Paper._
+[Carnegie Endowment for International Peace](https://carnegieendowment.org/2023/08/07/what-makes-influence-operation-malign-pub-90323)
 
 How COVID Drove the Evolution of Fact-Checking
 ======
