@@ -10,6 +10,8 @@ author_profile: true
 Other publications
 ======
 
+- "What Does Information Integrity Mean for Democracies?" with Samantha Lai in [Lawfare](https://www.lawfaremedia.org/article/what-does-information-integrity-mean-for-democracies)
+
 - "Operational Reporting in Practice: The EU’s Code of Practice on Disinformation" with Samantha Lai in [Carnegie Endowment for International Peace](https://carnegieendowment.org/2023/11/21/operational-reporting-in-practice-eu-s-code-of-practice-on-disinformation-pub-91060)
 
 - "Exploratory Data Analysis in Social Science Research" in [Berkeley D-Lab](https://dlab.berkeley.edu/news/exploratory-data-analysis-social-science-research)
