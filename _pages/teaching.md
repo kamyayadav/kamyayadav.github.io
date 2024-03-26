@@ -13,7 +13,7 @@ ods (Undergraduate)
   - [Course evaluations Fall 2022:](https://kamyayadav.github.io/files/231a_section.pdf) 6.44/7
     - Awarded Outstanding Graduate Student Instructor (2023) by the Graduate Division 
 
-  - [Course evaluations Fall 2023:](https://kamyayadav.github.io/files/231a_f23.pdf)
+  - [Course evaluations Fall 2023:](https://kamyayadav.github.io/files/231a_f23.pdf) 6.82/7
     - Awarded Outstanding Graduate Student Instructor (2024) by the Graduate Division
 
 - PS236B: Quantitative Methodology in the Social Sciences (Graduate)
