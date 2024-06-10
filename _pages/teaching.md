@@ -5,8 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-- PS3:  Introduction to Empirical Analysis and Quantitative Meth-
-ods (Undergraduate)
+- PS3:  Introduction to Empirical Analysis and Quantitative Methods (Undergraduate)
 
   - [Course evaluations Spring 2024 Section 1:](https://kamyayadav.github.io/files/ps3-dis101.pdf) 6.86/7
 
