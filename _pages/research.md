@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My current projects and working papers include a formal model to explain when political parties in India introduce internal quotas for women candidates and an online survey experiment on incentivizing peer-to-peer correction of online misinformation. My dissertation project focuses on the political ambition of Indian women. 
+My current projects and working papers include a formal model to explain when political parties in India introduce internal quotas for women candidates and an online survey experiment on incentivizing peer-to-peer correction of online misinformation. My dissertation focuses on the gendered pathways into politics in India and their implications for women's political ambition and representation in urban politics. 
 
 Articles 
 ======
