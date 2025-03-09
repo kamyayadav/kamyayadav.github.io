@@ -5,15 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
-My current projects and working papers include examining training programs at gatekeepers of minority representation in American politics, gendered political participation in urban Zambi, and an online survey experiment on incentivizing peer-to-peer correction of online misinformation. My dissertation focuses on the pathways into politics in India and their implications for women's political ambition and representation in urban politics.
+My current projects and working papers include examining training programs at gatekeepers of minority representation in American politics, gendered political participation in urban Zambia, and an online survey experiment on incentivizing peer-to-peer correction of online misinformation. My dissertation focuses on the pipeline to political power in urban India and examines how parties act as gatekeepers to women's electoral representation and upward mobility within party hierarchies.
 
-# Articles
+# *Dissertation Project*
 
-## Multilateral Efforts on Information Integrity: Why Greater Definition is Needed
+India’s urban political landscape presents a paradox. The Women’s Reservation Act (2023) mandates 33% of seats in state and national assemblies be reserved for women. Set to be implemented within the next decade, it expands reservations beyond local governance. Yet, women remain underrepresented among political parties - a key pipeline to elected office - as workers, leaders, and electoral candidates. This dissonance raises a challenge: Once reservations take effect, where will parties find women candidates with real political power, not just proxies for male family members, as seen in rural politics since reservations began in 1993?
 
-*With Alicia Wanless and Samantha Lai*
+Focusing on political parties as the primary pipeline to electoral representation, my dissertation addresses this paradox by investigating two questions: (1) Where are gender gaps most pronounced in the urban political party hierarchy, and why? (2) How can these gaps be bridged to facilitate women’s upward mobility in political parties and elected positions? I situate my research in Delhi, India’s capital city with a population of approximately 30 million. I use qualitative theory-building and survey and field experiments to examine how political parties act as gatekeepers to women's representation and upward mobility within parties and as electoral candidates and strategies to circumvent political party gatekeeping.
 
-***Forthcoming in Springer Handbook on Disinformation: A Multidisciplinary Analysis***
+# *Articles*
 
 ## What Makes an Influence Operation Malign? Leveraging Classification and Policy to Assess Digital Manipulation Campaigns
 
@@ -47,23 +47,33 @@ The global reach of the pandemic creates a unique opportunity for a regional ana
 
 [Empirical Studies of Conflict, Princeton University](https://esoc.princeton.edu/publications/localized-misinformation-global-pandemic-report-covid-19-narratives-around-world)
 
-# Working Papers
+# *Book Chapters*
+
+## Multilateral Efforts on Information Integrity: Why Greater Definition is Needed
+
+*With Alicia Wanless and Samantha Lai*
+
+How should “information integrity” be understood in the context of the information environment? The term has seen increased use by researchers and policymakers, yet its relative newness means that there is a lack of consistency in its definition and scope. This article provides analysis on how “information integrity” has been defined across multilateral efforts and existing literature. Using John Gerring’s framework for “conceptual goodness”, it evaluates how existing conceptualizations of the term fall short and provides guidance on how information integrity can achieve conceptual goodness. Only by doing so can information integrity fulfill its potential in supporting multi-stakeholder coordination to improve the global information environment.
+
+***Forthcoming in Springer Handbook on Disinformation: A Multidisciplinary Analysis***
+
+# *Working Papers*
 
 ------------------------------------------------------------------------
 
 ## Gatekeepers of Representation: The Role of Candidate Training Programs on Minority Candidate Supply
 
-*With Diana Lee and Shana Hardin*
+*With Diana Da In Lee*
 
-In the U.S., more than 40 organizations recruit and train individuals from marginalized groups, focusing on specific identities such as race/ethnicity, gender, and younger generations. For individuals from these groups, it is common to participate in these training programs as a first step toward becoming political candidates. Therefore, the selection process of these identity-based training organizations has significant implications for the broader pool of candidates and, by extension, for descriptive representation in politics. This paper explores the role of training organizations as gatekeepers to the supply of minority candidates. Using individual-level application data from the past 10 years from an organization that recruits and trains people of color and those of immigrant heritage to run for office, we assess both the short-term and long-term effects of the organization's selection process. First, we examine systematic socio-demographic and political differences between those selected for the training program and those who applied but were not chosen. Second, we track all applicants' candidacy to evaluate the program's impact by comparing the candidacy rates of program participants with those who were not selected. Finally, we conduct a survey among a sample of applicants to estimate the effect of the training program on their subsequent political ambition. This research provides important insights into the minority candidate pipeline and its implications for descriptive representation in American politics.
+In the U.S., more than 40 organizations recruit and train individuals from marginalized groups, focusing on specific identities such as race/ethnicity, gender, and younger generations. For individuals from these groups, it is common to participate in these training programs as a first step toward becoming political candidates. Therefore, the selection process of these identity-based training organizations has significant implications for the broader pool of candidates and, by extension, for descriptive representation in politics. This paper explores the role of training organizations as gatekeepers to the supply of minority candidates. Using individual-level application data from the past 10 years from an organization that recruits and trains people of color and those of immigrant heritage to run for office, we assess both the short-term and long-term effects of the organization’s selection process. First, we examine systematic socio-demographic and political differences between those selected for the training program and those who applied but were not chosen. Second, we track all applicants’ candidacy to evaluate the program’s impact by comparing the candidacy rates of program participants with those who were not selected. Finally, we conduct a survey among a sample of applicants to estimate the effect of the training program on their subsequent political ambition. This research provides important insights into the minority candidate pipeline and its implications for descriptive representation in American politics.
 
 ## Unlocking Urban Democracy: Voter Engagement in Local Level Zambian Politics
 
-*With Leonardo Arriola, Nicholas Dorward and Melanie Phillips* 
+*With Leonardo Arriola, Nicholas Dorward and Melanie Phillips*
 
-Africa is undergoing rapid urbanization, with its urban population projected to surpass 1.34 billion by 2050 and host many of the world’s largest cities by 2100. This transformation is profoundly reshaping local political dynamics and challenging traditional gender expectations, yet these shifts remain poorly understood. Building on existing research that highlights the lower political participation of urban residents compared to their rural counterparts, we explore how Africa’s unique urbanization — marked by a decoupling from economic growth and industrialization — impacts gendered political engagement. This study compares urban and rural political dynamics, focusing on how urbanization reshapes mobilization, accountability, and responsiveness at individual, household, and societal levels. Using a conjoint experiment and a novel socio-economic sampling strategy, this paper examines how urban Zambian voters respond to gender when evaluating the political capacity of local ward councillors. By employing a two-stage conjoint design that varies the nature of a hypothetical community problem and pairs it with a randomized politician profile, we analyze the interaction between issues and identity to understand how voters evaluate politician gender in this context. Drawing on a survey of over 2,000 urban voters, our findings reveal significant gender biases, with voter expectations and beliefs about councillors' abilities strongly shaped by stereotypes and their alignment with gendered tasks. We broaden the conceptual scope of political participation and ambition by incorporating gendered dimensions often overlooked in conventional measures and analyzing how urban settings foster distinct forms of citizen mobilization and elite strategies. Furthermore, we investigate how gendered expectations influence assessments of political efficacy and leadership in urban areas. This research offers critical insights into how urbanization and evolving gender norms shape political participation in Africa, with implications for understanding the continent's rapidly changing political landscape.
+Africa is undergoing rapid urbanization, with its urban population projected to surpass 1.34 billion by 2050 and host many of the world’s largest cities by 2100. This transformation is profoundly reshaping local political dynamics and challenging traditional gender expectations, yet these shifts remain poorly understood. Building on existing research that highlights the lower political participation of urban residents compared to their rural counterparts, we explore how Africa’s unique urbanization — marked by a decoupling from economic growth and industrialization — impacts gendered political engagement. Using a conjoint experiment and a novel socio-economic sampling strategy, this paper examines how gender affects respondents’ political mobilization and engagement among urban Zambian voters across issue areas as well as evaluation of political effectiveness and capacity of political elites. By employing a two conjoint designs that randomizes a hypothetical community problem and pairs it with a randomize ad politician profile, we analyze how issues and identity affect the interaction between issues and identity to understand a) when and why voters choose to politically engage and mobilize and b) what factors affect their assessment of politicians’ effectiveness and capacity to solve the issue presented.
 
-## ``It’s My Duty'': How Social Norms May Incentivize Peer-to-Peer Correction of False Claims Online
+## \`\`It’s My Duty'': How Social Norms May Incentivize Peer-to-Peer Correction of False Claims Online
 
 *With Rachel Xu*
 
