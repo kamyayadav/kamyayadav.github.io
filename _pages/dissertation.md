@@ -7,8 +7,7 @@ author_profile: true
 
 # Dissertation Project
 
-![](images/D761F68E-A9B9-49D6-BEF7-89E4CAC517CB_1_105_c.jpeg){width="6in"}
-
+![](images/D761F68E-A9B9-49D6-BEF7-89E4CAC517CB_1_105_c.jpeg)
 **2025 Delhi Election Press Conference**
 
 India’s urban political landscape presents a paradox. The Women’s Reservation Act (2023) mandates 33% of seats in state and national assemblies be reserved for women. Set to be implemented within the next decade, it expands reservations beyond local governance. Yet, women remain underrepresented among political parties - a key pipeline to elected office - as workers, leaders, and electoral candidates. This dissonance raises a challenge: Once reservations take effect, where will parties find women candidates with real political power, not just proxies for male family members, as seen in rural politics since reservations began in 1993?
