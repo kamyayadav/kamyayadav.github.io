@@ -7,12 +7,6 @@ author_profile: true
 
 My current projects and working papers include examining training programs at gatekeepers of minority representation in American politics, gendered political participation in urban Zambia, and an online survey experiment on incentivizing peer-to-peer correction of online misinformation. My dissertation focuses on the pipeline to political power in urban India and examines how parties act as gatekeepers to women's electoral representation and upward mobility within party hierarchies.
 
-# *Dissertation Project*
-
-India’s urban political landscape presents a paradox. The Women’s Reservation Act (2023) mandates 33% of seats in state and national assemblies be reserved for women. Set to be implemented within the next decade, it expands reservations beyond local governance. Yet, women remain underrepresented among political parties - a key pipeline to elected office - as workers, leaders, and electoral candidates. This dissonance raises a challenge: Once reservations take effect, where will parties find women candidates with real political power, not just proxies for male family members, as seen in rural politics since reservations began in 1993?
-
-Focusing on political parties as the primary pipeline to electoral representation, my dissertation addresses this paradox by investigating two questions: (1) Where are gender gaps most pronounced in the urban political party hierarchy, and why? (2) How can these gaps be bridged to facilitate women’s upward mobility in political parties and elected positions? I situate my research in Delhi, India’s capital city with a population of approximately 30 million. I use qualitative theory-building and survey and field experiments to examine how political parties act as gatekeepers to women's representation and upward mobility within parties and as electoral candidates and strategies to circumvent political party gatekeeping.
-
 # *Articles*
 
 ## What Makes an Influence Operation Malign? Leveraging Classification and Policy to Assess Digital Manipulation Campaigns
@@ -82,5 +76,3 @@ Many approaches to tackling misinformation rely on interventions, such as media 
 ## When Gatekeepers Open the Gates: Internal Party Quotas as Reputation Building Strategies
 
 Why do political parties voluntarily adopt internal gender candidate quotas during high-stakes national elections? Existing literature provides electoral, ideological, strategic, and women's mobilization-related explanations for voluntary party quota adoption. Motivated by two Indian political parties' decision to adopt and implement over 33 percent quotas for women candidates in the 2019 election, I argue that parties are willing to incur short-term electoral losses if it leads to long-term gains. Through a formal model, I demonstrate that implementing quotas, in the absence of legislation mandating so and in the face of electoral costs, is a long-term reputation building strategy for political parties in single member district electoral systems. This paper contributes to the literature on why parties adopt gender quotas by providing an alternative strategic explanation. It provides a game theoretic lens to quota adoption as a reputation building strategy.
-
-*Contact for Working Paper.*
