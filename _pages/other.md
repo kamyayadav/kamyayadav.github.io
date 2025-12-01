@@ -1,10 +1,9 @@
 ---
 layout: archive
+title: 'Other Publications'
 permalink: /other/
 author_profile: true
 ---
-
-## Other Publications
 
 -   "Transparency in Experimental Political Science Research" in [Berkeley D-Lab Medium](https://medium.com/@dlab-berkeley/transparency-in-experimental-political-science-research-d3727e7582f0)
 
