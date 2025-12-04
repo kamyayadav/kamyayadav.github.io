@@ -11,13 +11,13 @@ In my dissertation and book project, I offer a novel explanation for women's abs
 
 [Survey Instrument](https://www.dropbox.com/scl/fi/m18hsowvjy93uq0cqtdt7/final_instrument.pdf?rlkey=ds2m2yemlibg3qy8cj9wnwonv&dl=0) \| [Pre-Analysis Plan](10.17605/OSF.IO/3RQXU)
 
-## Peer Reviewed Articles 
+## Peer Reviewed Articles
 
 Siwakoti, Samikshya, Yadav, Kamya, Bariletto, Nicola, Zanotti, Luca, Erdoğdu, Ulaş, and Jacob N. Shapiro. 2021. How COVID drove the evolution of fact-checking. *Harvard Kennedy School (HKS) Misinformation Review*. <https://doi.org/10.37016/mr-2020-69>
 
-## Other Articles 
+## Other Articles
 
-Yadav, Kamya, Erdoğdu, Ulaş, Siwakoti, Samikshya, Shapiro, Jacob N., and Alicia Wanless. 2021. Countries have more than 100 laws on the books to combat misinformation. Howwell do they work? *Bulletin of the Atomic Scientists.* <https://doi.org/10.1080/00963402.2021.1912111>
+Yadav, Kamya, Erdoğdu, Ulaş, Siwakoti, Samikshya, Shapiro, Jacob N., and Alicia Wanless. 2021. Countries have more than 100 laws on the books to combat misinformation. How well do they work? *Bulletin of the Atomic Scientists.* <https://doi.org/10.1080/00963402.2021.1912111>
 
 Siwakoti, Samikshya, Yadav, Kamya, Thange, Isra, Bariletto, Nicola, Zanotti, Luca, Ghoneim, Alaa, and Jacob N. Shapiro. 2021. Localized Misinformation in a Global Pandemic: Report on COVID-19 Narratives Around the World. *Empirical Studies of Conflict, Princeton University.*
 
@@ -25,7 +25,7 @@ Siwakoti, Samikshya, Yadav, Kamya, Thange, Isra, Bariletto, Nicola, Zanotti, Luc
 
 Yadav, Kamya, Wanless, Alicia, and Samantha Lai. *Forthcoming.* Multilateral Efforts on Information Integrity: Why Greater Definition is Needed. *Springer Handbook on Disinformation: A Multidisciplinary Analysis.*
 
-## Working Papers 
+## Working Papers
 
 **When Gatekeepers Open the Gates: Internal Party Quotas as Reputation Building Strategies**
 
