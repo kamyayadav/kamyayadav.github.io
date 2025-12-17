@@ -7,7 +7,7 @@ author_profile: true
 
 ## Book Project
 
-In my dissertation and book project, I offer a novel explanation for women's absence at the top of political hierarchies that centers the role of women's wings as a separate and unequal institution contributing to this process. I argue that while women's wings act as a norm-compliant pathway for women to enter politics, bypassing patriarchal resistance to their political participation, they fail to advance women's careers into the main party organization, which is the locus of decision-making and candidate emergence in a political party. A vast majority of women enter partisan life through the women's wing but quickly encounter the "political glass wall" separating the women's wing from the main wing of the party. Women's wings act as a form of institutional discrimination, exacerbating existing sociopolitical inequalities that explain why some women enter through women's wings while others enter through the main party organization and preventing women from breaking through the "glass wall'' to progress forward and upward in their political careers. I provide descriptive and causal evidence from an original survey of 1,054 post-holding elites from two of the largest political parties in India, the Bharatiya Janata Party and the Aam Aadmi Party.
+In my dissertation and book project, I offer a novel explanation for women's absence at the top of political hierarchies that centers the role of women's wings as a separate and unequal institution contributing to this process. I argue that while women's wings act as a norm-compliant pathway for women to enter politics, bypassing patriarchal resistance to their political participation, they fail to advance women's careers into the main party organization, which is the locus of decision-making and candidate emergence in a political party. A vast majority of women enter partisan life through the women's wing but quickly encounter the political glass wall separating the women's wing from the main wing of the party. Women's wings act as a form of institutional discrimination, exacerbating existing sociopolitical inequalities that explain why some women enter through women's wings while others enter through the main party organization and preventing women from breaking through the glass wall' to progress forward and upward in their political careers. I provide descriptive and causal evidence from an original survey of 1,054 post-holding elites from two of the largest political parties in India, the Bharatiya Janata Party and the Aam Aadmi Party.
 
 [Survey Instrument](https://www.dropbox.com/scl/fi/m18hsowvjy93uq0cqtdt7/final_instrument.pdf?rlkey=ds2m2yemlibg3qy8cj9wnwonv&dl=0) \| [Pre-Analysis Plan](10.17605/OSF.IO/3RQXU)
 
@@ -39,7 +39,7 @@ With Rachel Xu \| [Pre-Analysis Plan](https://doi.org/10.17605/OSF.IO/MHFK2)
 
 ## Works in Progress
 
-**Unlocking Urban Democracy: Voter Engagement in Local Level Zambian Politics**'
+**Unlocking Urban Democracy: Voter Engagement in Local Level Zambian Politics**
 
 With [Leonardo Arriola](https://www.leonardoarriola.com/), Nicholas Dorward, and Melanie Phillips
 
