@@ -7,7 +7,7 @@ author_profile: true
 
 ## Book Project
 
-In my dissertation and book project, I offer a novel explanation for women's absence at the top of political hierarchies that centers the role of women's wings as a separate and unequal institution contributing to this process. I argue that while women's wings act as a norm-compliant pathway for women to enter politics, bypassing patriarchal resistance to their political participation, they fail to advance women's careers into the main party organization, which is the locus of decision-making and candidate emergence in a political party. A vast majority of women enter partisan life through the women's wing but quickly encounter the political glass wall separating the women's wing from the main wing of the party. Women's wings act as a form of institutional discrimination, exacerbating existing sociopolitical inequalities that explain why some women enter through women's wings while others enter through the main party organization and preventing women from breaking through the glass wall' to progress forward and upward in their political careers. I provide descriptive and causal evidence from an original survey of 1,054 post-holding elites from two of the largest political parties in India, the Bharatiya Janata Party and the Aam Aadmi Party.
+Women's wings are a stable feature of political parties, with nearly 40 percent of parties including them in their institutional structure as a way to encourage women's ascent to political power. Yet, there exists no correlation between the presence of a women's wing and women's electoral candidacy within these parties. Why do gender-inclusive political institutions fail to advance women's political careers in practice? In my dissertation and book project, I introduce the concept of the "political glass wall'' to explain how women’s wings condition women’s political entry and stymie their mobility and candidacy in the party. I argue that women's wings function as a sorting mechanism. Women without elite political networks enter through the women's wing, while networked women bypass it entirely. Once in the wing, women face stymied lateral mobility into the main party organization and limited vertical advancement. Moreover, elites prioritize sociopolitical capital in promotion decisions that women's wing members do not possess and cannot accumulate within wings relegated to mobilization tasks rather than strategic decision-making. I draw on over 56 elite interviews and an original survey of 1,054 party elites from two of India's largest political parties – Bharatiya Janata Party and Aam Aadmi Party – to substantiate these claims. The book project underscores that ostensibly gender-egalitarian institutions can institutionalize discrimination by creating parallel, unequal career tracks that exclude women from centers of power.
 
 [Survey Instrument](https://www.dropbox.com/scl/fi/m18hsowvjy93uq0cqtdt7/final_instrument.pdf?rlkey=ds2m2yemlibg3qy8cj9wnwonv&dl=0) \| [Pre-Analysis Plan](10.17605/OSF.IO/3RQXU)
 
@@ -23,7 +23,7 @@ Siwakoti, Samikshya, Yadav, Kamya, Thange, Isra, Bariletto, Nicola, Zanotti, Luc
 
 ## Book Chapter
 
-Yadav, Kamya, Wanless, Alicia, and Samantha Lai. *Forthcoming.* Multilateral Efforts on Information Integrity: Why Greater Definition is Needed. *Springer Handbook on Disinformation: A Multidisciplinary Analysis.*
+Yadav, Kamya, Wanless, Alicia, and Samantha Lai. 2025*.* Multilateral Efforts on Information Integrity: Why Greater Definition is Needed. *Springer Handbook on Disinformation: A Multidisciplinary Analysis.*
 
 ## Working Papers
 
@@ -31,7 +31,7 @@ Yadav, Kamya, Wanless, Alicia, and Samantha Lai. *Forthcoming.* Multilateral Eff
 
 **Kinship and Women’s Collective Efficacy in Malawi (Metaketa V)**
 
-With [Amanda Clayton](https://www.amandaclayton.org/), [Amanda L. Robinson](https://www.amandalearobinson.org/?_x_tr_hl&_x_tr_sl=auto&_x_tr_tl=ms), Boniface Dulani, and Asiyati Cheweza
+With [Amanda Clayton](https://www.amandaclayton.org/), [Amanda L. Robinson](https://www.amandalearobinson.org/?_x_tr_hl&_x_tr_sl=auto&_x_tr_tl=ms), [Boniface Dulani](https://pas.unima.ac.mw/people/staff/Boniface_Dulani_), and [Asiyati Cheweza](https://pas.unima.ac.mw/people/staff/Asiyati_Lorraine_Chiweza_(Mrs))
 
 **"It’s My Duty": How Social Norms May Incentivize Peer-to-Peer Correction of False Claims Online**
 
@@ -41,7 +41,7 @@ With Rachel Xu \| [Pre-Analysis Plan](https://doi.org/10.17605/OSF.IO/MHFK2)
 
 **Unlocking Urban Democracy: Voter Engagement in Local Level Zambian Politics**
 
-With [Leonardo Arriola](https://www.leonardoarriola.com/), Nicholas Dorward, and Melanie Phillips
+With [Leonardo Arriola](https://www.leonardoarriola.com/), [Nicholas Dorward](https://www.southampton.ac.uk/people/65qvvz/doctor-nick-dorward), and [Melanie Phillips](https://polisci.berkeley.edu/people/person/melanie-lauren-thompson)
 
 **Candidate Selection and Withdrawal in Urban Politics in Rajasthan, India**
 
