@@ -29,9 +29,13 @@ Yadav, Kamya, Wanless, Alicia, and Samantha Lai. 2025*.* Multilateral Efforts on
 
 **When Gatekeepers Open the Gates: Internal Party Quotas as Reputation Building Strategies**
 
-**Kinship and Women’s Collective Efficacy in Malawi (Metaketa V)**
+**Kinship Moderates Women's Empowerment: Evidence from Patrilineal and Matrilineal Malawi (Metaketa V)**
 
 With [Amanda Clayton](https://www.amandaclayton.org/), [Amanda L. Robinson](https://www.amandalearobinson.org/?_x_tr_hl&_x_tr_sl=auto&_x_tr_tl=ms), [Boniface Dulani](https://pas.unima.ac.mw/people/staff/Boniface_Dulani_), and [Asiyati Cheweza](https://pas.unima.ac.mw/people/staff/Asiyati_Lorraine_Chiweza_(Mrs))
+
+**Gatekeepers of Representation: The Role of Candidate Training Programs on Minority Candidate Supply**
+
+With [Diana Da In Lee](https://www.dianadainlee.com/)
 
 **"It’s My Duty": How Social Norms May Incentivize Peer-to-Peer Correction of False Claims Online**
 
@@ -41,12 +45,8 @@ With Rachel Xu \| [Pre-Analysis Plan](https://doi.org/10.17605/OSF.IO/MHFK2)
 
 **Unlocking Urban Democracy: Voter Engagement in Local Level Zambian Politics**
 
-With [Leonardo Arriola](https://www.leonardoarriola.com/), [Nicholas Dorward](https://www.southampton.ac.uk/people/65qvvz/doctor-nick-dorward), and [Melanie Phillips](https://polisci.berkeley.edu/people/person/melanie-lauren-thompson)
+With [Leonardo Arriola](https://www.leonardoarriola.com/), [Nicholas Dorward](https://www.southampton.ac.uk/people/65qvvz/doctor-nick-dorward), and [Melanie Phillips](https://polisci.berkeley.edu/people/person/melanie-lauren-thompson) \| [Pre-Analysis Plan](https://doi.org/10.17605/OSF.IO/JQKHR)
 
 **Candidate Selection and Withdrawal in Urban Politics in Rajasthan, India**
 
 With [Priyadarshi Amar](https://priyadarshiamar.github.io/), [Anirvan Chowdhury](https://anirvanchowdhury.github.io/), and [Varun Karekurve-Ramachandra](https://www.varun-kr.com/)
-
-**Gatekeepers of Representation: The Role of Candidate Training Programs on Minority Candidate Supply**
-
-With [Diana Da In Lee](https://www.dianadainlee.com/)
