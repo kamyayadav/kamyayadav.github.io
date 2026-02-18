@@ -11,7 +11,7 @@ Women's wings are a stable feature of political parties, with nearly 40 percent 
 
 [Survey Instrument](https://www.dropbox.com/scl/fi/m18hsowvjy93uq0cqtdt7/final_instrument.pdf?rlkey=ds2m2yemlibg3qy8cj9wnwonv&dl=0) \| [Pre-Analysis Plan](10.17605/OSF.IO/3RQXU)
 
-## Peer Reviewed Articles
+## Peer Reviewed Articles 
 
 Siwakoti, Samikshya, Yadav, Kamya, Bariletto, Nicola, Zanotti, Luca, Erdoğdu, Ulaş, and Jacob N. Shapiro. 2021. How COVID drove the evolution of fact-checking. *Harvard Kennedy School (HKS) Misinformation Review*. <https://doi.org/10.37016/mr-2020-69>
 
