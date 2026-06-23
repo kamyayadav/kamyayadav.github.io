@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: 'en' }}">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ site.author.name | default: site.name }}</title>
+<meta name="description" content="{{ site.description }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap">
+<style>
+  body{
+    padding:50px;
+    font:15px/1.6 Inter,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color:#2d2d2d;font-weight:300;
+    -webkit-font-smoothing:antialiased;
+  }
+  h1,h2,h3,h4{color:#222;margin:0 0 18px;line-height:1.1;}
+  h1{font-size:28px;}
+  h3{font-size:18px;color:#393939;margin:34px 0 14px;font-weight:700;
+     border-bottom:1px solid #ececec;padding-bottom:7px;}
+  p,ul,ol{margin:0 0 18px;}
+  a{color:#2872b0;font-weight:400;text-decoration:none;}
+  a:hover{text-decoration:underline;}
+  strong{color:#222;font-weight:700;}
+  em{color:#333;}
+  img{max-width:100%;}
+
+  .wrapper{width:880px;margin:0 auto;}
+
+  header{width:280px;float:left;position:fixed;}
+  header h1{margin-bottom:16px;}
+  header img{width:100%;border-radius:3px;margin-bottom:16px;}
+  header .view{font-size:15px;color:#555;line-height:1.55;margin-bottom:16px;}
+  header .links{font-size:14px;}
+  header .links a{display:inline-block;margin:0 14px 6px 0;font-weight:700;}
+
+  section{width:500px;float:right;padding-bottom:50px;}
+  section p:first-child{margin-top:2px;}
+
+  .subhead{font-weight:700;font-style:italic;color:#777;font-size:15px;margin:0 0 12px;}
+  ul.pubs{list-style:none;margin:0 0 22px;padding:0;}
+  ul.pubs li{margin:0 0 18px;}
+  .pubs .ptitle{font-weight:700;color:#222;}
+  .pubs .pmeta{display:block;color:#555;}
+  .award{display:block;font-style:italic;color:#777;font-size:14px;}
+  .level{font-style:italic;color:#888;font-weight:400;}
+  .plinks{font-size:14px;}
+
+  footer{clear:both;}
+
+  @media print, screen and (max-width:980px){
+    .wrapper{width:auto;margin:0;}
+    header,section{float:none;position:static;width:auto;}
+    header{margin-bottom:10px;}
+    header img{width:200px;}
+    section{border-top:1px solid #e5e5e5;padding-top:20px;}
+  }
+  @media print, screen and (max-width:480px){
+    body{padding:18px;}
+    header img{width:160px;}
+  }
+</style>
+</head>
+<body>
+  <div class="wrapper">
+    <header>
+      <h1>Kamya Yadav</h1>
+      <img src="{{ '/images/profile-photo.jpg' | relative_url }}" alt="Kamya Yadav">
+      <p class="view">
+        Incoming Postdoctoral Research Fellow<br>
+        Center for the Advanced Study of India<br>
+        University of Pennsylvania<br>
+        <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+      </p>
+      <p class="links">
+        <a href="{{ '/files/cv.pdf' | relative_url }}">Curriculum Vitae</a>
+        <a href="{{ site.author.googlescholar }}">Google Scholar</a>
+        <a href="https://github.com/{{ site.author.github }}">GitHub</a>
+      </p>
+    </header>
+
+    <section>
+      {{ content }}
+    </section>
+
+    <footer></footer>
+  </div>
+</body>
+</html>

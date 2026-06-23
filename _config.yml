@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Kamya Yadav"
-description              : &description "PhD Candidate"
+description              : &description "Postdoctoral Research Fellow (incoming), Center for the Advanced Study of India, University of Pennsylvania"
 url                      : https://kamyayadav.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kamyayadav/kamyayadav.github.io"
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Kamya Yadav"
-  avatar           : "headshot2.JPG"
+  avatar           : "profile-photo.jpg"
   bio              : # "Your biography for the left-hand sidebar"
   location         : #"UC Berkeley"
   employer         :
