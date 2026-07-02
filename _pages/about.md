@@ -2,13 +2,13 @@
 layout: home
 permalink: /
 title: "Kamya Yadav"
-excerpt: "Postdoctoral Research Fellow (incoming), Center for the Advanced Study of India, University of Pennsylvania"
+excerpt: "Postdoctoral Research Fellow, Center for the Advanced Study of India, University of Pennsylvania"
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<p>I am an incoming Postdoctoral Research Fellow at the Center for the Advanced Study of India (CASI) at the University of Pennsylvania. I received my Ph.D. in Political Science from the University of California, Berkeley. My research sits at the intersection of gender and representation, party politics, and the political economy of development, with a regional focus on India.</p>
+<p>I am a Postdoctoral Research Fellow at the Center for the Advanced Study of India (CASI) at the University of Pennsylvania. I received my Ph.D. in Political Science from the University of California, Berkeley. My research sits at the intersection of gender and representation, party politics, and the political economy of development, with a regional focus on India.</p>
 
 <p>My work examines how political institutions — such as quotas and party organizations — shape women's political participation, ambition, and representation, as well as citizen engagement with politics. This research spans India, Zambia, Malawi, and the United States, and draws on surveys, experiments, observational causal inference, and qualitative interviews and shadowing. My research has been supported by Global, International and Area Studies, the Institute for South Asia Studies, and the Graduate Division at UC Berkeley, as well as SurveyCTO.</p>
 
