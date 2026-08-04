@@ -50,7 +50,7 @@ redirect_from:
 
 <ul class="pubs">
   <li>
-    <span class="ptitle">Kinship and Women's Collective Efficacy in Malawi</span>
+    <span class="ptitle">Kinship and Women's Collective Action: Evidence from Patrilineal and Matrilineal Malawi</span>
     <span class="pmeta">Under review. With <a href="https://www.amandalearobinson.org/">Amanda Robinson</a>, <a href="https://www.amandaclayton.org/">Amanda Clayton</a>, <a href="https://pas.unima.ac.mw/people/staff/Boniface_Dulani_">Boniface Dulani</a>, and Asiyati Cheweza</span>
   </li>
   <li>
