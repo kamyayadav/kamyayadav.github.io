@@ -2,13 +2,13 @@
 layout: home
 permalink: /
 title: "Kamya Yadav"
-excerpt: "Postdoctoral Research Fellow, Center for the Advanced Study of India, University of Pennsylvania"
+excerpt: "Charles R. Kaye Postdoctoral Research Fellow, Center for the Advanced Study of India, University of Pennsylvania"
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<p>I am a Postdoctoral Research Fellow at the Center for the Advanced Study of India (CASI) at the University of Pennsylvania. I received my Ph.D. in Political Science from the University of California, Berkeley. My research sits at the intersection of gender and representation, party politics, and the political economy of development, with a regional focus on India.</p>
+<p>I am the Charles R. Kaye Postdoctoral Research Fellow at the Center for the Advanced Study of India (CASI) at the University of Pennsylvania. I received my Ph.D. in Political Science from the University of California, Berkeley. My research sits at the intersection of gender and representation, party politics, and the political economy of development, with a regional focus on India.</p>
 
 <p>My work examines how political institutions — such as quotas and party organizations — shape women's political participation, ambition, and representation, as well as citizen engagement with politics. This research spans India, Zambia, Malawi, and the United States, and draws on surveys, experiments, observational causal inference, and qualitative interviews and shadowing. My research has been supported by the American Political Science Association, the Jepson School of Leadership Studies at the University of Richmond, Global, International and Area Studies, the Institute for South Asia Studies, the Graduate Division at UC Berkeley, and SurveyCTO.</p>
 
@@ -51,7 +51,7 @@ redirect_from:
 <ul class="pubs">
   <li>
     <span class="ptitle">Kinship and Women's Collective Action: Evidence from Patrilineal and Matrilineal Malawi</span>
-    <span class="pmeta">Under review. With <a href="https://www.amandalearobinson.org/">Amanda Robinson</a>, <a href="https://www.amandaclayton.org/">Amanda Clayton</a>, <a href="https://pas.unima.ac.mw/people/staff/Boniface_Dulani_">Boniface Dulani</a>, and Asiyati Cheweza</span>
+    <span class="pmeta"><em>Under review</em>, with <a href="https://www.amandalearobinson.org/">Amanda Robinson</a>, <a href="https://www.amandaclayton.org/">Amanda Clayton</a>, <a href="https://pas.unima.ac.mw/people/staff/Boniface_Dulani_">Boniface Dulani</a>, and Asiyati Cheweza</span>
   </li>
   <li>
     <span class="ptitle">Are Women's Wings Barriers to Women's Political Advancement?</span>
