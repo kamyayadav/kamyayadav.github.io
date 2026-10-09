@@ -10,5 +10,5 @@ title: "The Political Glass Wall"
 
 <figure class="fig">
   <img src="{{ '/images/womens-wings-correlation.png' | relative_url }}" alt="Scatterplot: women's share of party candidates is about the same in parties with and without a women's organization">
-  <figcaption>Women's share of a party's candidates is no higher in parties with a women's wing than in parties without one.</figcaption>
+  <figcaption>Women's share of a party's candidates is no higher in parties with a women's wing than in parties without one. Source: Political Party Database (Scarrow, Webb, and Poguntke 2022).</figcaption>
 </figure>
