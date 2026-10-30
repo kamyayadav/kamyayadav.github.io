@@ -76,6 +76,10 @@ redirect_from:
 
 <ul class="pubs">
   <li>
+    <span class="ptitle">Building Footprint Morphology and Survey Sampling Frames in Rapidly Urbanising Cities</span>
+    <span class="pmeta">With <a href="https://www.southampton.ac.uk/people/65qvvz/doctor-nick-dorward">Nicholas Dorward</a>, <a href="https://www.leonardoarriola.com/">Leonardo Arriola</a>, and <a href="https://polisci.berkeley.edu/people/person/melanie-lauren-thompson">Melanie Phillips</a></span>
+  </li>
+  <li>
     <span class="ptitle">Unlocking Urban Democracy: Voter Engagement in Local-Level Zambian Politics</span>
     <span class="pmeta">With <a href="https://www.leonardoarriola.com/">Leonardo Arriola</a>, <a href="https://www.southampton.ac.uk/people/65qvvz/doctor-nick-dorward">Nicholas Dorward</a>, and <a href="https://polisci.berkeley.edu/people/person/melanie-lauren-thompson">Melanie Phillips</a> &nbsp;·&nbsp; <a href="https://doi.org/10.17605/OSF.IO/JQKHR">Pre-analysis plan</a> &nbsp;·&nbsp; <a href="https://apsa2026.ipostersessions.com/Default.aspx?s=02-03-2C-58-01-95-99-78-23-5D-EC-5E-B7-93-72-1C" target="_blank" rel="noopener">Poster</a></span>
   </li>
